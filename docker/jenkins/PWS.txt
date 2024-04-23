@@ -1,3 +1,6 @@
 Clave jemkins Instalacion
 323232591d2144cab50600a4302c69c0
+acceso
+admin
+admin
 
