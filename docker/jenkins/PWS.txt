@@ -4,5 +4,4 @@ acceso
 admin
 admin
 
-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
 
